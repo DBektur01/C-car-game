@@ -9,12 +9,23 @@ C# car game   exe.
 пока  как вы можете)
 
 ![автомобильная игра](https://user-images.githubusercontent.com/84037263/160056068-568bfef7-ef1d-416d-bb9e-b04ac84acdec.png)
+
+
 ![car](https://user-images.githubusercontent.com/84037263/160537101-55e12489-8b17-41bd-acb6-e09f9244b272.png)
+
+
 Дорожная разметка
 Это изображение в формате JPEG, на котором показана дорожная разметка,
 и оно будет анимировано сверху вниз, скользя вниз, чтобы создать иллюзию движения автомобиля вперед.
 
 ![c#](https://user-images.githubusercontent.com/84037263/160537701-07058002-48ce-44f2-a78a-7a6fdd216136.png)
-Автомобили
-Все они в формате PNG с полной прозрачностью.![carc#](https://user-images.githubusercontent.com/84037263/160537909-84f9ba65-acbc-441e-8d57-04c57e88f45b.png)
 
+Автомобили
+
+Все они в формате PNG с полной прозрачностью.!
+
+
+
+
+
+![carc#](https://user-images.githubusercontent.com/84037263/160538199-d8aa6b39-6379-4fd4-851a-a752b0fe74ac.png)
