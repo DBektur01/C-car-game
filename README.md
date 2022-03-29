@@ -38,3 +38,25 @@ C# car game   exe.
 
 
 ![carc#](https://user-images.githubusercontent.com/84037263/160538199-d8aa6b39-6379-4fd4-851a-a752b0fe74ac.png)
+
+Взрыв
+Это анимированный GIF-файл взрыва
+который мы будем использовать, чтобы показать конец  игры  ! 
+
+
+![кар](https://user-images.githubusercontent.com/84037263/160539170-443e8ec0-de86-4d39-9e89-32068218ea33.png)
+Это водитель.
+Мы выбрали эту простую желтую машину,
+
+
+
+
+
+
+
+
+
+
+
+![C#123](https://user-images.githubusercontent.com/84037263/160539409-11f4de9e-18cf-467f-a6db-0032210ab31e.png)
+
